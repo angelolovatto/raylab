@@ -18,7 +18,7 @@ python = "^3.7"
 click = "^7.1.2"
 ray = {extras = ["rllib", "tune"], version = "^1.0.0"}
 torch = "^1.5.1"
-streamlit = ">=0.62,<0.75"
+streamlit = ">=0.62,<0.76"
 cachetools = {version = "^4.1.0", python = "^3.7"}
 bokeh = "^2.1.0"
 dataclasses-json = "^0.5.1"
